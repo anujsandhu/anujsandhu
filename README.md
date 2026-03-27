@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🚀 I’m currently working on<br>Building Grooveat — a multi-tenant food & grocery tech ecosystem (POS, admin, logistics)<br><br>🤝 I’m looking to collaborate on<br>Startup ideas, SaaS products, and scalable full-stack systems<br><br>🛠️ I’m looking for help with<br>Advanced backend architecture, system design, and scaling Firebase/Node apps<br><br>🌱 I’m currently learning<br>System design, backend engineering, and production-level architecture<br><br>💬 Ask me about<br>React, Firebase, building startups from scratch, and real-world dev projects<br><br>⚡ Fun fact<br>I build full apps end-to-end solo — from idea to production 🚀
 
